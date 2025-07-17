@@ -44,25 +44,4 @@ public class DataRead {
         return userData;
     }
 
-    // Main method
-//    public static void main(String[] args) throws InterruptedException {
-//        List<String[]> users = readUserDataFromCSV();
-//
-//        for (int i = 0; i < users.size(); i++) {
-//            String[] user = users.get(i);
-//            System.out.println("User " + (i + 1) + ":");
-//            System.out.println("  Email      : " + user[0]);
-//            System.out.println("  Username   : " + user[1]);
-//            System.out.println("  Password   : " + user[2]);
-//            System.out.println("  ConfirmPwd : " + user[3]);
-//            System.out.println("  First Name : " + user[4]);
-//            System.out.println("  Last Name  : " + user[5]);
-//            System.out.println("  Dept ID    : " + user[6]);
-//            System.out.println("  Role       : " + user[7]);
-//            System.out.println("  Address    : " + user[8]);
-//            System.out.println("  Phone      : " + user[9]);
-//            System.out.println("-------------------------------------------------");
-//        }
-//    }
-
 }
